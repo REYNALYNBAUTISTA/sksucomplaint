@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/images/sksu_logo.png" alt="SKSU Logo" width="120" height="120">
+  <img src="public/images/sksu.png" alt="SKSU Logo" width="120" height="120">
   
   # SKSU Student Complaints & Assistance Desk System
   
@@ -24,6 +24,22 @@
 </div>
 
 <br />
+
+## 👥 The Research & Development Team
+
+This system was designed and developed by the following researchers/developers from **Sultan Kudarat State University**:
+
+| Team Member | Role |
+| :--- | :--- |
+| **Stephanie D. Villanueva** | 
+| **Alayssa Cream N. Rufino** |
+| **Cathleen Joy D. Cagunda** | |
+| **Reynalyn D. Bautista** |
+| **Mikyla F. Sucaldito** | 
+| **Bea E. Marquez** |
+| **Blessie Jane L. Gabut** 
+
+--------------
 
 ## 📖 About The Project
 
@@ -66,21 +82,7 @@ The **SKSU Student Complaints and Assistance Desk System** is a web-based platfo
 * **Database:** MySQL
 * **Mail Service:** SMTP (Mailtrap/Gmail) for notifications
 
----
-
-## 👥 The Research & Development Team
-
-This system was designed and developed by the following researchers/developers from **Sultan Kudarat State University**:
-
-| Team Member | Role |
-| :--- | :--- |
-| **Stephanie D. Villanueva** | *Researcher / Developer* |
-| **Alayssa Cream N. Rufino** | *Researcher / Developer* |
-| **Cathleen Joy D. Cagunda** | *Researcher / Developer* |
-| **Reynalyn D. Bautista** | *Researcher / Developer* |
-| **Mikyla F. Sucaldito** | *Researcher / Developer* |
-| **Bea E. Marquez** | *Researcher / Developer* |
-| **Blessie Jane L. Gabut** | *Researcher / Developer* |
+---|
 
 ---
 
