@@ -29,7 +29,7 @@
 
 This system was designed and developed by the following researchers/developers from **Sultan Kudarat State University**:
 
-BSIT-3C
+**BSIT-3C**
 | Team Member | Role |
 | :--- | :--- |
 | **Stephanie D. Villanueva** | Leader
@@ -38,7 +38,7 @@ BSIT-3C
 | **Reynalyn D. Bautista** |System Designer
 | **Mikyla F. Sucaldito** |Data Analytics
 | **Bea E. Marquez** |Data Analytics
-| **Blessie Jane L. Gabut**|Dcumentation Speacialist
+| **Blessie Jane L. Gabut**|Documentation Speacialist
 
 --------------
 
