@@ -34,11 +34,11 @@ BSIT-3C
 | :--- | :--- |
 | **Stephanie D. Villanueva** | Leader
 | **Alayssa Cream N. Rufino** |Programmer
-| **Cathleen Joy D. Cagunda** | |Database Designer
+| **Cathleen Joy D. Cagunda** |Database Designer
 | **Reynalyn D. Bautista** |System Designer
-| **Mikyla F. Sucaldito** | Data Analytics
-| **Bea E. Marquez** | Data Analytics
-| **Blessie Jane L. Gabut** Dcumentation Speacialist
+| **Mikyla F. Sucaldito** |Data Analytics
+| **Bea E. Marquez** |Data Analytics
+| **Blessie Jane L. Gabut**|Dcumentation Speacialist
 
 --------------
 
