@@ -29,15 +29,16 @@
 
 This system was designed and developed by the following researchers/developers from **Sultan Kudarat State University**:
 
+BSIT-3C
 | Team Member | Role |
 | :--- | :--- |
-| **Stephanie D. Villanueva** | 
-| **Alayssa Cream N. Rufino** |
-| **Cathleen Joy D. Cagunda** | |
-| **Reynalyn D. Bautista** |
-| **Mikyla F. Sucaldito** | 
-| **Bea E. Marquez** |
-| **Blessie Jane L. Gabut** 
+| **Stephanie D. Villanueva** | Leader
+| **Alayssa Cream N. Rufino** |Programmer
+| **Cathleen Joy D. Cagunda** | |Database Designer
+| **Reynalyn D. Bautista** |System Designer
+| **Mikyla F. Sucaldito** | Data Analytics
+| **Bea E. Marquez** | Data Analytics
+| **Blessie Jane L. Gabut** Dcumentation Speacialist
 
 --------------
 
